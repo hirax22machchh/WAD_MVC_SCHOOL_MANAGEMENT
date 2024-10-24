@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|c:\\users\\hirax\\source\\repos\\mvcproject\\schoolmanagementapp.mvc\\schoolmanagementapp.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|solutionrelative:schoolmanagementapp.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|c:\\users\\hirax\\source\\repos\\mvcproject\\schoolmanagementapp.mvc\\schoolmanagementapp.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|solutionrelative:schoolmanagementapp.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|c:\\users\\hirax\\source\\repos\\mvcproject\\schoolmanagementapp.mvc\\schoolmanagementapp.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|solutionrelative:schoolmanagementapp.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|c:\\users\\hirax\\source\\repos\\mvcproject\\schoolmanagementapp.mvc\\schoolmanagementapp.mvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|solutionrelative:schoolmanagementapp.mvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|c:\\users\\hirax\\source\\repos\\mvcproject\\schoolmanagementapp.mvc\\schoolmanagementapp.mvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|solutionrelative:schoolmanagementapp.mvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|c:\\users\\hirax\\source\\repos\\mvcproject\\schoolmanagementapp.mvc\\schoolmanagementapp.mvc\\views\\lecturers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|solutionrelative:schoolmanagementapp.mvc\\views\\lecturers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|c:\\users\\hirax\\source\\repos\\mvcproject\\schoolmanagementapp.mvc\\schoolmanagementapp.mvc\\views\\enrollments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|solutionrelative:schoolmanagementapp.mvc\\views\\enrollments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|c:\\users\\hirax\\source\\repos\\mvcproject\\schoolmanagementapp.mvc\\schoolmanagementapp.mvc\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|solutionrelative:schoolmanagementapp.mvc\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|c:\\users\\hirax\\source\\repos\\mvcproject\\schoolmanagementapp.mvc\\schoolmanagementapp.mvc\\views\\classes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|solutionrelative:schoolmanagementapp.mvc\\views\\classes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|c:\\users\\hirax\\source\\repos\\mvcproject\\schoolmanagementapp.mvc\\schoolmanagementapp.mvc\\views\\classes\\manageenrollments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|solutionrelative:schoolmanagementapp.mvc\\views\\classes\\manageenrollments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|c:\\users\\hirax\\source\\repos\\mvcproject\\schoolmanagementapp.mvc\\schoolmanagementapp.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|solutionrelative:schoolmanagementapp.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|c:\\users\\hirax\\source\\repos\\mvcproject\\schoolmanagementapp.mvc\\schoolmanagementapp.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|solutionrelative:schoolmanagementapp.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|c:\\users\\hirax\\source\\repos\\mvcproject\\schoolmanagementapp.mvc\\schoolmanagementapp.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|solutionrelative:schoolmanagementapp.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|c:\\users\\hirax\\source\\repos\\mvcproject\\schoolmanagementapp.mvc\\schoolmanagementapp.mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|solutionrelative:schoolmanagementapp.mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|c:\\users\\hirax\\source\\repos\\mvcproject\\schoolmanagementapp.mvc\\schoolmanagementapp.mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|solutionrelative:schoolmanagementapp.mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|c:\\users\\hirax\\source\\repos\\mvcproject\\schoolmanagementapp.mvc\\schoolmanagementapp.mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|solutionrelative:schoolmanagementapp.mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|c:\\users\\hirax\\source\\repos\\mvcproject\\schoolmanagementapp.mvc\\schoolmanagementapp.mvc\\migrations\\20241020154835_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702FEF2E-7010-46F8-961D-07B666EFEC29}|SchoolManagementApp.MVC\\SchoolManagementApp.MVC.csproj|solutionrelative:schoolmanagementapp.mvc\\migrations\\20241020154835_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementApp.MVC\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "SchoolManagementApp.MVC\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T07:29:16.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementApp.MVC\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "SchoolManagementApp.MVC\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T07:22:42.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Lecturers\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementApp.MVC\\Views\\Lecturers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Lecturers\\Index.cshtml",
+              "RelativeToolTip": "SchoolManagementApp.MVC\\Views\\Lecturers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T07:22:19.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Enrollments\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementApp.MVC\\Views\\Enrollments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Enrollments\\Index.cshtml",
+              "RelativeToolTip": "SchoolManagementApp.MVC\\Views\\Enrollments\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T07:21:47.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementApp.MVC\\Views\\Courses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "SchoolManagementApp.MVC\\Views\\Courses\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T07:21:30.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Classes\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementApp.MVC\\Views\\Classes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Classes\\Index.cshtml",
+              "RelativeToolTip": "SchoolManagementApp.MVC\\Views\\Classes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T07:20:44.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementApp.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SchoolManagementApp.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T05:06:49.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolManagementApp.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Program.cs",
+              "RelativeToolTip": "SchoolManagementApp.MVC\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:57:21.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolManagementApp.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\appsettings.json",
+              "RelativeToolTip": "SchoolManagementApp.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-20T15:50:41.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManageEnrollments.cshtml",
+              "DocumentMoniker": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Classes\\ManageEnrollments.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementApp.MVC\\Views\\Classes\\ManageEnrollments.cshtml",
+              "ToolTip": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Classes\\ManageEnrollments.cshtml",
+              "RelativeToolTip": "SchoolManagementApp.MVC\\Views\\Classes\\ManageEnrollments.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T07:20:42.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementApp.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SchoolManagementApp.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T05:24:06.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementApp.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SchoolManagementApp.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T05:14:17.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementApp.MVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SchoolManagementApp.MVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T05:10:30.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementApp.MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "SchoolManagementApp.MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T04:44:56.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementApp.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SchoolManagementApp.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T05:13:23.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SchoolManagementApp.MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SchoolManagementApp.MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T05:24:26.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241020154835_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Migrations\\20241020154835_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SchoolManagementApp.MVC\\Migrations\\20241020154835_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hirax\\source\\repos\\mvcProject\\SchoolManagementApp.MVC\\SchoolManagementApp.MVC\\Migrations\\20241020154835_InitialCreate.cs",
+              "RelativeToolTip": "SchoolManagementApp.MVC\\Migrations\\20241020154835_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:48:35.515Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
